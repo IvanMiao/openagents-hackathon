@@ -1,0 +1,10 @@
+{
+  "files": [],
+  "references": [
+    { "path": "packages/agentcard" },
+    { "path": "packages/agentville-cli" },
+    { "path": "agents/reviewer" },
+    { "path": "agents/gas-estimator" },
+    { "path": "apps/agentville-ui" }
+  ]
+}
